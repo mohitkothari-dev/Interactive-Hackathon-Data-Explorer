@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Interactive Data Explorer is a Streamlit-based application designed for medical professionals to upload, process, and visualize large datasets efficiently. This tool is particularly useful for analyzing patient data, visualizing medical research results, and exploring healthcare metrics to gain insights and make data-driven decisions.
+The Interactive Hackathon Data Explorer is a Streamlit-based application designed for Hackathon participants to upload, process, and visualize large datasets efficiently. This tool is particularly useful for analyzing, visualizing results, and exploring metrics to gain insights and make data-driven decisions.
 
 ## Key Features
 
