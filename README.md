@@ -30,5 +30,13 @@ The Interactive Data Explorer is a Streamlit-based application designed for medi
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/interactive-data-explorer.git
-   cd interactive-data-explorer
+   git clone https://github.com/mohitkothari-dev/Interactive-Hackathon-Data-Explorer
+   cd Interactive-Hackathon-Data-Explorer
+
+2. **Install Requirements file**:
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run Streamlit app**:
+   ```bash
+   streamlit run main.py
